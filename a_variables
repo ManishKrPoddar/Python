@@ -1,0 +1,9 @@
+#Variables
+
+greeting = "Hello World"
+print(greeting)
+
+greeting2 = input("Write a greeting")
+print(greeting2)
+
+
