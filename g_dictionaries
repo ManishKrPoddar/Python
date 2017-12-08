@@ -1,0 +1,8 @@
+#dictionories
+
+l = [2,3,4]
+d = {"Name":"Manish","Surname":"Poddar"}
+d["Name"]
+d
+dictionaries are unordered collection of  items
+d = {"Name":"Manish","Surname":"Poddar","Cities":("Kolkata","Chennai","Patna")}
