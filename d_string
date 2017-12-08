@@ -1,0 +1,29 @@
+#Strings
+
+c = "Here"
+c
+"Here"
+c.replace("e","i")
+dir(c)
+help("".replace)
+"Here".replace
+
+"Here".replace("e","i",1)
+
+
+c = "Hi There!'
+c[3]
+type(c[3])
+
+to get string in reverse manner
+c[-1]
+
+c[0:1]
+
+c[0:2]
+
+c[:3]
+
+c[-3:-1]
+
+
