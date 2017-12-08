@@ -1,0 +1,12 @@
+#List
+
+s = "Hello"
+c = ["h",2,"Hello"]
+c
+type(c[1])
+
+dir(list)
+c.append(3)
+c.remove(2)
+
+
