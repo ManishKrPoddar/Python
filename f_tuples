@@ -1,0 +1,6 @@
+#tuples
+
+t = ("Hey",3,4)
+t[-1]
+dir(tuple)
+
